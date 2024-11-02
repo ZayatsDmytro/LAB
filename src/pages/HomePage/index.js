@@ -1,7 +1,7 @@
 import React from "react";
-import styles from "./css/styles.module.css";
+import { FaBookmark, FaEdit, FaHome, FaSignOutAlt,FaUser } from "react-icons/fa";
 
-import { FaHome, FaUser, FaBookmark, FaEdit, FaSignOutAlt } from "react-icons/fa";
+import styles from "./css/styles.module.css";
 import image from './images/image.png'; 
 
 function HomeFeed() {

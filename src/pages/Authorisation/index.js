@@ -1,6 +1,7 @@
+import React from 'react';
+
 import styles from "./css/styles.module.css";
 import image from './images/image.png'; 
-import React from 'react';
 
 const Authorisation = () => {
     return (
@@ -19,7 +20,7 @@ const Authorisation = () => {
 
                         <button type="submit" className={styles.button}>Log in</button>
                     </form>
-                    <p>Don't have an account? <a href="#" className={styles.signUpLink}>Sign up</a></p>
+                    <p>Don&apos;t have an account? <a href="#" className={styles.signUpLink}>Sign up</a></p>
                 </div>
             </div>
             <div className={styles.imageSection}>

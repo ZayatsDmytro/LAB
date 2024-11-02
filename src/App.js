@@ -1,6 +1,9 @@
-import Authorisation from "./pages/Authorisation";
-import RegisterPage from "./pages/Registration";
+//import Authorisation from "./pages/Authorisation";
+import React from 'react';
+
 import HomeFeed from "./pages/HomePage";
+
+//import RegisterPage from "./pages/Registration";
 
 function App() {
   return (

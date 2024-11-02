@@ -1,25 +1,31 @@
+// comonjs
 const path = require('node:path');
-const HtmlWebPackPlugin = require('html-webpack-plugin');
-const CopyPlugin = require('copy-webpack-plugin');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
-const basicConfig = {
+const config = {
     entry: path.resolve(__dirname, '../src/index.js'),
     output: {
         path: path.resolve(__dirname, '../dist'),
-        filename: 'bundle.js',
     },
     plugins: [
-        new HtmlWebPackPlugin({
-            template: path.resolve(__dirname, '../templates/index.html'),
+        new CopyWebpackPlugin({
+            patterns: [
+                {
+                    context: path.resolve(__dirname, '../src', 'assets'),
+                    from: '**/*',
+                    to: path.resolve(__dirname, '../dist', 'assets'),
+                },
+            ],
         }),
-        new CopyPlugin({
-            patterns: [{ from: path.resolve(__dirname, '../assets'), to: path.resolve(__dirname, '../dist/assets') }],
+        new HtmlWebpackPlugin({
+            template: path.resolve(__dirname, '../templates/index.html'),
         }),
     ],
     module: {
         rules: [
             {
-                test: /\.(js|jsx)$/i,
+                test: /\.jsx?$/,
                 exclude: /node_modules/,
                 use: [
                     {
@@ -35,13 +41,10 @@ const basicConfig = {
     resolve: {
         extensions: ['.js', '.jsx'],
         alias: {
+            '@app': path.resolve(__dirname, '../src/'),
             '@components': path.resolve(__dirname, '../src/components'),
-            '@hooks': path.resolve(__dirname, '../src/hooks'),
         },
-    },
-    devServer: {
-        port: 9000,
     },
 };
 
-module.exports = basicConfig;
+module.exports = config;

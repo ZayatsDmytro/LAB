@@ -6,9 +6,8 @@ module.exports = defineConfig({
         devServer: {
             framework: 'react',
             bundler: 'webpack',
-            webpackConfig, // webpackConfig: webpackConfig,
+            webpackConfig, // webpackConfig: webpackConfig
         },
-        specPattern: ['src/**/*.cy.{js,jsx}'],
         setupNodeEvents(on, config) {
             // component testing node events setup code
             // https://docs.cypress.io/guides/tooling/code-coverage

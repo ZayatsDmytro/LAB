@@ -1,4 +1,4 @@
-// https://eslint.org/docs/v8.x/
+// https://eslint.org/docs/latest/use/command-line-interface
 
 const config = {
     env: {
@@ -22,18 +22,23 @@ const config = {
     ],
     /* https://github.com/import-js/eslint-plugin-import */
     settings: {
+        react: {
+            version: 'detect', // React version. "detect" automatically picks the version you have installed.
+        },
         'import/resolver': {
             node: {
                 extensions: ['.js', '.jsx'],
             },
             webpack: {
-                config: './config/webpack.dev.config.js',
+                // if not set, import won't work properly with aliases f.e. import Header from '@components/Header'
+                config: './config/webpack.development.config.js',
             },
         },
     },
     plugins: ['simple-import-sort', 'react'],
-    ignorePatterns: ['node_modules'],
+    ignorePatterns: ['node_modules','src/bootstrap.js',],
     rules: {
+        /*https://github.com/sindresorhus/eslint-plugin-unicorn/blob/main/docs/rules/filename-case.md*/
         'unicorn/filename-case': [
             'error',
             {
@@ -43,6 +48,7 @@ const config = {
                 },
             },
         ],
+        'unicorn/no-empty-file': 'off',
         'simple-import-sort/exports': 'error',
         'simple-import-sort/imports': 'error',
         'import/namespace': [2, { allowComputed: true }],
@@ -54,13 +60,18 @@ const config = {
             files: ['*rc.js', '*.config.js'],
             rules: {
                 'unicorn/prefer-module': 'off',
-                'unicorn/filename-case': 'off',
+                'unicorn/filename-case': [
+                    'error',
+                    {
+                        cases: {
+                            kebabCase: true,
+                        },
+                    },
+                ],
+                'no-unused-vars': 'off',
             },
         },
     ],
-    globals: {
-        Cypress: true,
-    },
 };
 
 module.exports = config;

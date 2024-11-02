@@ -1,7 +1,11 @@
 const { merge } = require('webpack-merge');
-const basicConfig = require('./webpack.config');
+const baseConfig = require('./webpack.config');
+
 const config = {
     mode: 'development',
+    output: {
+        filename: 'bundle.js',
+    },
     module: {
         rules: [
             {
@@ -13,7 +17,8 @@ const config = {
                         options: {
                             modules: {
                                 mode: 'local',
-                                localIdentName: `[name]_[local]--[hash:base64:5]`,
+                                localIdentName: '[name]__[local]',
+                                // namedExport: true, case 1;
                                 namedExport: false,
                             },
                         },
@@ -34,6 +39,9 @@ const config = {
             },
         ],
     },
+    devServer: {
+        port: 3000,
+    },
 };
 
-module.exports = merge(basicConfig, config);
+module.exports = merge(baseConfig, config);

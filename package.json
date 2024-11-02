@@ -1,7 +1,7 @@
 {
-    "name": "moder_space",
+    "name": "Vibely",
     "version": "0.0.0",
-    "description": "E-commerce shop!",
+    "description": "Social Network",
     "main": "index.js",
     "scripts": {
         "start": "echo \"App has been started\" && exit 1",
@@ -22,7 +22,7 @@
         "react",
         "react-dom"
     ],
-    "author": "albinapetrus",
+    "author": "dmitrozayats",
     "license": "ISC",
     "dependencies": {
        

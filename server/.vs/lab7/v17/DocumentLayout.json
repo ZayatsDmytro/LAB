@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "Lab8Test\\HomeControllerTests.cs",
               "ToolTip": "C:\\Users\\Dima\\web\\LAB\\server\\Lab8Test\\HomeControllerTests.cs",
               "RelativeToolTip": "Lab8Test\\HomeControllerTests.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCsAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T19:32:15.344Z",
               "EditorCaption": ""
@@ -90,7 +90,8 @@
               "RelativeToolTip": "lab7\\mod\\model.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T17:38:25.755Z"
+              "WhenOpened": "2024-11-03T17:38:25.755Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,7 +103,8 @@
               "RelativeToolTip": "lab7\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T16:59:39.554Z"
+              "WhenOpened": "2024-11-03T16:59:39.554Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -114,7 +116,8 @@
               "RelativeToolTip": "lab7\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-03T16:58:05.464Z"
+              "WhenOpened": "2024-11-03T16:58:05.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -126,7 +129,8 @@
               "RelativeToolTip": "lab7\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T16:27:22.174Z"
+              "WhenOpened": "2024-11-03T16:27:22.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -137,7 +141,8 @@
               "ToolTip": "C:\\Users\\Dima\\web\\LAB\\server\\lab7\\lab7.csproj",
               "RelativeToolTip": "lab7\\lab7.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-03T18:48:08.173Z"
+              "WhenOpened": "2024-11-03T18:48:08.173Z",
+              "EditorCaption": ""
             }
           ]
         }

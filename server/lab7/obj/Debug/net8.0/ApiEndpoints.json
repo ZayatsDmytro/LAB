@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "lab7.Controllers.HomeController",
+    "Method": "createUser",
+    "RelativePath": "create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "lab7.mod.register",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "lab7.Controllers.HomeController",
+    "Method": "getUser",
+    "RelativePath": "get",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "lab7.mod.register",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "lab7.Controllers.HomeController",
+    "Method": "returnShit",
+    "RelativePath": "return",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

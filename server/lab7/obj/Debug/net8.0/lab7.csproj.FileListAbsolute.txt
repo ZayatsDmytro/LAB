@@ -114,3 +114,9 @@ C:\Users\Dima\web\LAB\server\lab7\obj\Debug\net8.0\refint\lab7.dll
 C:\Users\Dima\web\LAB\server\lab7\obj\Debug\net8.0\lab7.pdb
 C:\Users\Dima\web\LAB\server\lab7\obj\Debug\net8.0\lab7.genruntimeconfig.cache
 C:\Users\Dima\web\LAB\server\lab7\obj\Debug\net8.0\ref\lab7.dll
+C:\Users\Dima\web\LAB\server\lab7\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Dima\web\LAB\server\lab7\bin\Debug\net8.0\Moq.dll
+C:\Users\Dima\web\LAB\server\lab7\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\Dima\web\LAB\server\lab7\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\Dima\web\LAB\server\lab7\bin\Debug\net8.0\xunit.core.dll
+C:\Users\Dima\web\LAB\server\lab7\bin\Debug\net8.0\xunit.execution.dotnet.dll

@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Dima\\web\\LAB\\server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|c:\\users\\dima\\web\\lab\\server\\lab7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|solutionrelative:lab7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F1FB370-CFC8-4D5C-97D9-CA7B6781F82B}|Lab8Test\\Lab8Test.csproj|c:\\users\\dima\\web\\lab\\server\\lab8test\\lab8test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2F1FB370-CFC8-4D5C-97D9-CA7B6781F82B}|Lab8Test\\Lab8Test.csproj|solutionrelative:lab8test\\lab8test.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|c:\\users\\dima\\web\\lab\\server\\lab7\\mod\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|solutionrelative:lab7\\mod\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F1FB370-CFC8-4D5C-97D9-CA7B6781F82B}|Lab8Test\\Lab8Test.csproj|c:\\users\\dima\\web\\lab\\server\\lab8test\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1FB370-CFC8-4D5C-97D9-CA7B6781F82B}|Lab8Test\\Lab8Test.csproj|solutionrelative:lab8test\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dima\\web\\LAB\\server\\Lab8\\HomeControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lab8\\HomeControllerTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|c:\\users\\dima\\web\\lab\\server\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|c:\\users\\dima\\web\\lab\\server\\lab7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|solutionrelative:lab7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|c:\\users\\dima\\web\\lab\\server\\lab7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|solutionrelative:lab7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|c:\\users\\dima\\web\\lab\\server\\lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|solutionrelative:lab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|c:\\users\\dima\\web\\lab\\server\\lab7\\lab7.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|solutionrelative:lab7\\lab7.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|c:\\users\\dima\\web\\lab\\server\\lab7\\mod\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B4BE22-5605-4E3C-B821-F077B28F1E80}|lab7\\lab7.csproj|solutionrelative:lab7\\mod\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +42,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab8Test",
+              "DocumentMoniker": "C:\\Users\\Dima\\web\\LAB\\server\\Lab8Test\\Lab8Test.csproj",
+              "RelativeDocumentMoniker": "Lab8Test\\Lab8Test.csproj",
+              "ToolTip": "C:\\Users\\Dima\\web\\LAB\\server\\Lab8Test\\Lab8Test.csproj",
+              "RelativeToolTip": "Lab8Test\\Lab8Test.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T19:39:35.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\web\\LAB\\server\\Lab8Test\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "Lab8Test\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\Dima\\web\\LAB\\server\\Lab8Test\\HomeControllerTests.cs",
+              "RelativeToolTip": "Lab8Test\\HomeControllerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:32:15.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dima\\web\\LAB\\server\\Lab8\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "Lab8\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\Dima\\web\\LAB\\server\\Lab8\\HomeControllerTests.cs",
+              "RelativeToolTip": "Lab8\\HomeControllerTests.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:20:47.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "model.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\web\\LAB\\server\\lab7\\mod\\model.cs",
               "RelativeDocumentMoniker": "lab7\\mod\\model.cs",
@@ -38,8 +90,7 @@
               "RelativeToolTip": "lab7\\mod\\model.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T17:38:25.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T17:38:25.755Z"
             },
             {
               "$type": "Document",
@@ -49,14 +100,13 @@
               "RelativeDocumentMoniker": "lab7\\Program.cs",
               "ToolTip": "C:\\Users\\Dima\\web\\LAB\\server\\lab7\\Program.cs",
               "RelativeToolTip": "lab7\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T16:59:39.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T16:59:39.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Dima\\web\\LAB\\server\\lab7\\appsettings.json",
               "RelativeDocumentMoniker": "lab7\\appsettings.json",
@@ -64,21 +114,30 @@
               "RelativeToolTip": "lab7\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-03T16:58:05.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T16:58:05.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Dima\\web\\LAB\\server\\lab7\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "lab7\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Dima\\web\\LAB\\server\\lab7\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "lab7\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAD4vyMAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Dima\\web\\LAB\\server\\lab7\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "lab7\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T16:27:22.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T16:27:22.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lab7",
+              "DocumentMoniker": "C:\\Users\\Dima\\web\\LAB\\server\\lab7\\lab7.csproj",
+              "RelativeDocumentMoniker": "lab7\\lab7.csproj",
+              "ToolTip": "C:\\Users\\Dima\\web\\LAB\\server\\lab7\\lab7.csproj",
+              "RelativeToolTip": "lab7\\lab7.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-03T18:48:08.173Z"
             }
           ]
         }
